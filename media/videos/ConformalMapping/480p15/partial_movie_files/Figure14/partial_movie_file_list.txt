@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/blupo/Downloads/media/videos/ConformalMapping/480p15/partial_movie_files/Figure14/3163782288_1677897553_4194876646.mp4'
