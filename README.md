@@ -4,4 +4,6 @@ The following animation was constructed with the spirit of the visualization of 
 
 The following animation is the output of the code located in the ConformalMapping\media\videos\ConformalMapping\1080p60:
 
-<source src="media\videos\ConformalMapping\1080p60\Figure14.mp4" type="video/mp4" width="1080">
+<video width="1080" height="1920" autoplay>
+  <source src="media\videos\ConformalMapping\1080p60\Figure14.mp4" type="video/mp4" />
+</video>
